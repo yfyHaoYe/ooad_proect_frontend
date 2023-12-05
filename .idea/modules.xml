@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ooad_project_frontend.iml" filepath="$PROJECT_DIR$/.idea/ooad_project_frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vue-project-introduction-master.iml" filepath="$PROJECT_DIR$/.idea/vue-project-introduction-master.iml" />
     </modules>
   </component>
 </project>
